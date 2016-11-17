@@ -24,3 +24,5 @@ bin/*
 *swo
 metadata.json
 tmp/
+
+.idea/
